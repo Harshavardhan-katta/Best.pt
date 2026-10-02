@@ -6,6 +6,6 @@ After training and fine-tuning 𝐘𝐎𝐋𝐎𝐯𝟖 + 𝐔𝐥𝐭𝐫𝐚�
 
 This is just a small part of 𝐚 𝐦𝐮𝐜𝐡 𝐥𝐚𝐫𝐠𝐞𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 that I am working on…
 
-Take a look on my linked in profile to get more information on Best.pt
+Take a look on my linked in profile to get more information on **Best.pt**
 
 You can check out my colab workspace I will be sharing My **Colab Notebook** soon.........

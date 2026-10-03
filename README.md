@@ -9,3 +9,8 @@ This is just a small part of 𝐚 𝐦𝐮𝐜𝐡 𝐥𝐚𝐫𝐠𝐞𝐫 𝐩
 Take a look on my linked in profile to get more information on **Best.pt**
 
 You can check out my colab workspace I will be sharing My **Colab Notebook** soon.........
+
+## 🎥 Project Demo
+Here is the demo video of my **best.pt** outputs:
+https://youtu.be/3XZD1X82TJA?si=kQ2KaX-NAYr2DvTX
+``
